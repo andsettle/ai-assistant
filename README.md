@@ -1,5 +1,7 @@
 # AI Assistant - Quick Start Guide
 
+## Note: This is a local tool i was developing for fun. it is not completed nor has it been QA'd for any sort of quality standard. 
+
 ## First Time Setup
 
 1. **Create Desktop Shortcuts** (One-time):
